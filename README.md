@@ -1,3 +1,7 @@
+## Update 2019-10-10: Archived
+
+This fork has been merged into the original repo. OEBIF will no longer be maintained, see [Outline Effect](https://github.com/cakeslice/Outline-Effect) for the latest updates.
+
 Outline Effect But It's Faster
 ======================
 This is a fork of [Outline Effect](https://github.com/cakeslice/Outline-Effect) by cakeslice. The primary aim of this fork is to improve performance, but I am also adding a few features and cleaning up code.
